@@ -1,5 +1,4 @@
 ---
-layout: page
+layout: default
 title: DGThemes site
-tagline: Site for understanding DGThemes
 ---
